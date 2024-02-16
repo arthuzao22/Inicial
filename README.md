@@ -11,7 +11,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Berion999&show_icons=true&count_private=true&hide_border=true&title_color=ff2400&icon_color=ff2400text_color=ff2400&bg_color=111111" alt="Arthur Reis github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthuzao22&show_icons=true&count_private=true&hide_border=true&title_color=ff2400&icon_color=ff2400text_color=ff2400&bg_color=111111" alt="Arthur Reis github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuzao22&layout=compact&hide_border=true&title_color=ff2400&4text_color=ff91a4&bg_color=111111" />
 </div>
 
